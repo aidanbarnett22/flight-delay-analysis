@@ -11,10 +11,17 @@ This is a data science project analyzing flight delay patterns using Python, pan
 ## Tools Used
 - Python
 - pandas
+- scikit
 - Jupyter Notebook
 
 ## Dataset
 Flight performance and delay data from Kaggle.
+
+## Airline Delay Trends
+
+![Airline Delays](visuals/airline_delay_bar_chart.png)
+![Airline Delays](visuals/time_delay_line_chart.png)
+![Airline Delays](visuals/confusion_matrix.png)
 
 ## Project Structure
 
