@@ -15,7 +15,7 @@ This is a data science project analyzing flight delay patterns using Python, pan
 - Jupyter Notebook
 
 ## Dataset
-Flight performance and delay data from Kaggle.
+Flight performance and delay data from Kaggle and originially from TranStats data library.
 
 ## Airline Delay Trends
 
